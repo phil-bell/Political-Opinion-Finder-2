@@ -1,0 +1,50 @@
+{
+    "polls":[
+        {
+            "name":"youGov",
+            "date":"2016-06-12",
+            "remain":799,
+            "leave":867,
+            "unsure":190
+        },
+        {
+            "name":"ICM1",
+            "date":"2016-06-13",
+            "remain":450,
+            "leave":500,
+            "unsure":50
+        },
+        {
+            "name":"ICM2",
+            "date":"2016-06-13",
+            "remain":880,
+            "leave":980,
+            "unsure":141
+        },
+        {
+            "name":"comres",
+            "date":"2016-06-13",
+            "remain":461,
+            "leave":451,
+            "unsure":90
+        },
+        {
+            "name":"TNS",
+            "date":"2016-06-13",
+            "remain":999,
+            "leave":1174,
+            "unsure":324
+        },
+        {
+            "name":"ORB",
+            "date":"2016-06-12",
+            "remain":384,
+            "leave":392,
+            "unsure":24                
+        }
+        
+    ]
+
+    
+    
+}
